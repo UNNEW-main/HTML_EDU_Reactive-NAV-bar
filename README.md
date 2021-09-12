@@ -1,2 +1,3 @@
 # HTML_EDU_Reactive-NAV-bar
-Reactive NAV bar
+드림코딩 유튜브강의 클론코딩 <br />
+화면 가로비율을 줄이면 헤더메뉴의 아이템들이 사라지고 더보기 버튼이 생긴다.
